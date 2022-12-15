@@ -1,7 +1,7 @@
 ---
 title: Welcome
-layout: protected
+layout: home
 nav_order: 1
 ---
 
-asdad
+asdadczxc
