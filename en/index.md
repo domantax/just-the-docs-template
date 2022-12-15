@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: home
+layout: protected
 nav_order: 1
 ---
 
