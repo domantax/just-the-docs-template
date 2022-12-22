@@ -31,7 +31,7 @@ Nice walk to Santa Elena tower. We prefer taking path up the hill (at the beginn
 <!-- The grid: four columns -->
 <div class="row">
   <div class="column">
-    <img src="/assets/images/6F4D0ED2-9420-475A-8C29-7036C35927A9_1_105_c.jpeg" alt="View from Santa Helena" onload="myFunction(this);" onclick="myFunction(this);" >
+    <img src="/assets/images/6F4D0ED2-9420-475A-8C29-7036C35927A9_1_105_c.jpeg" alt="View from Santa Elena" onload="myFunction(this);" onclick="myFunction(this);" >
   </div>
   <div class="column">
     <img src="/assets/images/IMG_4871.jpg" alt="La Azohia" onclick="myFunction(this);">
@@ -40,7 +40,7 @@ Nice walk to Santa Elena tower. We prefer taking path up the hill (at the beginn
     <img src="/assets/images/IMG_4393.jpg" alt="La Azohia - nice sunsets" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="/assets/images/IMG_4391.jpg" alt="Santa Helena" onclick="myFunction(this);">
+    <img src="/assets/images/IMG_4391.jpg" alt="Santa Elena" onclick="myFunction(this);">
   </div>
   <div class="column">
     <img src="/assets/images/IMG_4849.jpg" alt="Church in Isla Plana" onclick="myFunction(this);">
