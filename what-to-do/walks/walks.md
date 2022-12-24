@@ -4,7 +4,7 @@ title: Walks & Runs
 nav_order: 1
 parent: What To Do
 has_children: true
-permalink: /en/what-to-do/walks-and-runs
+permalink: /what-to-do/walks-and-runs
 ---
 # Walks and Runs
 
