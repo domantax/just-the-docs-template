@@ -5,3 +5,8 @@ theme: just-the-docs
 url: https://domantax.github.io/just-the-docs-template
 
 permalink: /:title
+
+callouts:
+  note:
+    title: Note
+    color: yellow

@@ -3,7 +3,6 @@ layout: default
 title: Torre De Santa Elena
 parent: Walks & Runs
 grand_parent: What To Do
-
 nav_order: 1
 ---
 # Torre De Santa Elena
@@ -11,7 +10,8 @@ nav_order: 1
 Nice walk to Santa Elena tower. We prefer taking path up the hill (at the beginning of a path) to avoid streets with more traffic
 {: .fs-6 .fw-300 }
 
-## From apartment to Torre de Santa Elena and Back
+{: .note }
+Walk goes from apartment to Torre de Santa Elena and back
 
 | Distance  | Ascent / Descent  | GPX file / Link |
 |:----------|:------------------|:----------------|
