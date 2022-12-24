@@ -3,7 +3,7 @@ layout: default
 title: What To Do
 nav_order: 3
 has_children: true
-permalink: /en/what-to-do
+permalink: /what-to-do
 ---
 
 # What To Do
