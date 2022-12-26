@@ -4,7 +4,7 @@ title: Hiking
 nav_order: 1
 parent: What To Do
 has_children: true
-permalink: /en/what-to-do/hike
+permalink: /what-to-do/hike
 ---
 
 # Hiking / Trekking / Trail running
