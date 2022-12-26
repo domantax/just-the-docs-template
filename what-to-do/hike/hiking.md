@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hiking
-nav_order: 1
+nav_order: 5
 parent: What To Do
 has_children: true
 permalink: /what-to-do/hike

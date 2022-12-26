@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Walks & Runs
-nav_order: 1
+nav_order: 4
 parent: What To Do
 has_children: true
 permalink: /what-to-do/walks-and-runs
