@@ -2,7 +2,7 @@
 layout: default
 title: Washing machine
 parent: Equipment & Facilities
-nav_order: 1
+nav_order: 2
 ---
 
 # Washing Machine
