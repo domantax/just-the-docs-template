@@ -7,4 +7,5 @@ nav_order: 4
 
 # Dishwasher
 
-There are a number of cycles to choose from: A, B or C. These are chosen by moving the wheel inside the top of the door of the dishwasher.
+You can choose a dishwashing cycle by turning the knob on the left side of the dishwasher's door. On the right side you can choose to delay the program by 3, 6 or 9 hours. Once you chose the cycle (and delay) click play button.
+

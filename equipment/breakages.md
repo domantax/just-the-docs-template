@@ -7,4 +7,7 @@ nav_order: 13
 
 # Breakages
 
-If you break something, we would ask you to replace it or notify us at the time and we can organise a replacement.
+In case you break something, we would ask you to replace it or notify us about the accident. We will try to organise a replacement.
+
+{: .note }
+> TO CHANGE maybe add : depending on the breakage, we might ask you to cover damages.

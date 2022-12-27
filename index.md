@@ -7,15 +7,15 @@ nav_order: 1
 
 Dear Guests
 {: .fs-6 .fw-300 }
-Welcome to Rosa de los Vientos, we hope that you have a fantastic and memorable stay in our apartment and also here in the Isla Plana, Puerto de Mazarron area.
+Welcome to Rosa de los Vientos! We hope that your stay in our apartment will be fantastic and memorable. As well we wish you a very pleasant stay in Isla Plana, Puerto de Mazarron area.
 
-We hope that you find everything to your satisfaction, we have equipped this apartment to a high standard and we hope that you enjoy your stay and will want to return for another visit.
+This apartment is highly equipped with various devices and electrical appliances for your comfort. We hope that you will find it very satisfactory.
 
 {: .note }
 > TO CHANGE
 > If there is anything that you need during your stay, please not hesitate to contact our local agent Maura Dunne. +34 646 969 455.
 
-We have compiled this information both about the apartment and the local area for your information and further enjoyment of the Costa Calida. The Costa Calida has a lot to offer, it is all on your door step, just waiting to be explored.
+We have collected this information about the apartment and local area for your convenience and further enjoyment of Costa Calida. This area has a lot to offer and it is just waiting to be explored. Hopefully you will love Costa Calida as much as we do and decide to return for another stay.
 
 Hasta luego and enjoy the sunshine!
 

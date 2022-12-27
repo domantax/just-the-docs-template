@@ -8,5 +8,6 @@ permalink: /equipment
 
 # Equipment & Facilities
 
-We have equipped this apartment with everything we think that you will need to enjoy your stay
+We have equipped this apartment with many appliances to make your stay comfortable and enjoyable. We hope you will find everything just like at home.
+
 {: .fs-6 .fw-300 }

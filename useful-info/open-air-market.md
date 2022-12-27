@@ -7,7 +7,7 @@ nav_order: 1
 
 # Open air market
 
-Many of the local towns have their own open air markets which are a great place to go and pick some fruits or veggies. They tend to take place from 09:00 to 14:00 approximately. They tend to be very busy in summer and this means an increased risk from the pick pockets. So a word of advice, don't carry large amounts of cash with you and keep it very close to you at all times.
+Many of the local towns have their own open air markets which are a great place to go and pick some fruits, nuts and veggies. They tend to take place from 09:00 to 14:00 approximately. They tend to be very busy in summer and this means an increased risk from the pick pockets. So a word of advice, don't carry large amounts of cash with you and keep it very close to you at all times.
 {: .fs-6 .fw-300 }
 
 
