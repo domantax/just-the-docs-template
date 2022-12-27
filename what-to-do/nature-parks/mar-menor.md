@@ -23,24 +23,6 @@ Whilst the Mar Menor, is a popular location for leisure sports, fishing and beac
 
 The therapeutic properties of mud have been known since antiquity and used in both medical and beauty treatments for thousands of years. Special climatic conditions in the Mar Menor, and the surrounding salinas,  have brought about clay deposits which contain a high percentage of positive ions, calcium, magnesium, potassium and fluoride, in addition to negative ions, chlorine and sulphate, which combine with extraordinarily fine sand to create a unique, healing mud.
 
-<!-- The expanding image container -->
-<div class="container">
 
-  <!-- Expanded image -->
-  <img id="expandedImg" style="width:100%">
-
-  <!-- Image text -->
-  <div id="imgtext"></div>
-</div>
-
-
-<!-- The grid: four columns -->
-<div class="row">
-  <div class="column">
-    <img src="{{ site.url | append: '/assets/images/IMG_7773.jpg' }}" onload="myFunction(this);" onclick="myFunction(this);" >
-  </div>
-
-</div>
-
-<script src="{{ site.url | append: '/assets/js/image-gallery.js' | relative_url }}"></script>
+![]({{ site.url | append: '/assets/images/IMG_7773.jpg' }})
 
