@@ -8,7 +8,7 @@ nav_order: 2
 
 # MTB route - Rambla de Canar
 
-A mountain bike round trip. There is some some water on the way back so you may get some dirt on your clothes :D 
+A mountain bike round trip. There is a small water spring on the road, so prepare to get some dirt on your clothes :)
 {: .fs-6 .fw-300 }
 
 {: .note }
