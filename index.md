@@ -13,10 +13,10 @@ This apartment is highly equipped with various devices and electrical appliances
 
 {: .note }
 > TO CHANGE
-> If there is anything that you need during your stay, please not hesitate to contact our local agent Maura Dunne. +34 646 969 455.
+> If there is anything that you need during your stay, please not hesitate to contact our apartment caretakers ....
 
 We have collected this information about the apartment and local area for your convenience and further enjoyment of Costa Calida. This area has a lot to offer and it is just waiting to be explored. Hopefully you will love Costa Calida as much as we do and decide to return for another stay.
 
 Hasta luego and enjoy the sunshine!
 
-Violeta and Arunas Stankus
+Violeta
